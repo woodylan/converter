@@ -15,6 +15,6 @@
             "woodylan\\converter\\": "src"
         }
     },
-    "minimum-stability": "master",
+    "minimum-stability": "dev",
     "prefer-stable": true
 }
