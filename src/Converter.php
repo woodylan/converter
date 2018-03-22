@@ -1,6 +1,6 @@
 <?php
 
-namespace woodylan\converter;
+namespace Woodylan\Converter;
 
 class Converter
 {

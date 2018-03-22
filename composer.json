@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "woodylan\\converter\\": "src"
+            "Woodylan\\Converter\\": "src"
         }
     },
     "minimum-stability": "dev"
